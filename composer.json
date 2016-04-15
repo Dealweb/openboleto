@@ -1,14 +1,18 @@
 {
-    "name": "kriansa/openboleto",
+    "name": "dealweb/openboleto",
     "type": "library",
-    "description": "Biblioteca para geração de boletos bancários.",
+    "description": "Biblioteca para geração de boletos bancários forked from Kriansa/openboleto.",
     "keywords": ["boleto", "boleto bancario"],
-    "homepage": "http://github.com/kriansa/openboleto",
+    "homepage": "https://github.com/Dealweb/openboleto",
     "license": "MIT",
     "authors": [
         {
             "name": "Daniel Garajau",
             "email": "kriansa@facebook.com"
+        },
+        {
+            "name": "Henrique Oliveira",
+            "email": "henrique@dealweb.com.br"
         }
     ],
     "require": {
